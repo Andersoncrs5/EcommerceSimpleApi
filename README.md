@@ -5,6 +5,6 @@ version of framework : 9
 
 Project Status: In Progress 
 
-Start date: 13/02
+Start date:
 
 Database : PostgreSQL (Version 17)
